@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Open.CMD]
+@="Open CMD Here..."
+"Icon"="\"C:\\WINDOWS\\system32\\cmd.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Open.CMD\command]
+@="\"C:\\WINDOWS\\system32\\cmd.exe\""
